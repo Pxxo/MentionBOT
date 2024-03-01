@@ -3,7 +3,7 @@ import discord
 import time
 
 # 自分のBotのアクセストークンに置き換えてください
-TOKEN = 'ODI0NDU4OTIxNDQyODAzNzcy.YFvrNA.ue5YfuE_m_xqaWo59I0p0VUto78'
+TOKEN = 'XXXXXXXXXXXXXXXXXXXXXXXXXXXXX'
 
 # 接続に必要なオブジェクトを生成
 client = discord.Client()
